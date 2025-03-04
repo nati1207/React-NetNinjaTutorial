@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nome-do-repositorio/static/css/main.b3264b96.css",
-    "main.js": "/nome-do-repositorio/static/js/main.deff8e08.js",
-    "index.html": "/nome-do-repositorio/index.html",
-    "main.b3264b96.css.map": "/nome-do-repositorio/static/css/main.b3264b96.css.map",
-    "main.deff8e08.js.map": "/nome-do-repositorio/static/js/main.deff8e08.js.map"
+    "main.css": "/React-NetNinjaTutorial/static/css/main.b3264b96.css",
+    "main.js": "/React-NetNinjaTutorial/static/js/main.deff8e08.js",
+    "index.html": "/React-NetNinjaTutorial/index.html",
+    "main.b3264b96.css.map": "/React-NetNinjaTutorial/static/css/main.b3264b96.css.map",
+    "main.deff8e08.js.map": "/React-NetNinjaTutorial/static/js/main.deff8e08.js.map"
   },
   "entrypoints": [
     "static/css/main.b3264b96.css",
